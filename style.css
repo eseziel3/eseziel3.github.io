@@ -1,0 +1,26 @@
+body{
+    background: url(https://i.pinimg.com/736x/9a/90/4d/9a904d5c323b49fd569c35e99d2c2ced.jpg);
+}
+
+#Titulo{
+    color: rgb(201, 22, 22);
+    border: 20cm;
+    border-color: magenta;
+    max-width: 1000px;
+	width: 1000px;
+}
+
+
+#click-x2{
+	color: transparent;
+	margin: 10px 10px;
+}
+
+#NoClickMe{
+
+	color: black;
+	font-style: italic;
+	cursor: help;
+	margin: 16px 999px;
+	
+}
